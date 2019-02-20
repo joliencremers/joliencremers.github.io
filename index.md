@@ -9,7 +9,7 @@ Other research interests include: circular data analysis, multi-level/hierarchic
 [jcre@sund.ku.dk](mailto:jcre@sund.ku.dk)
 
 
-[CV](./CV.html)
+[CV](CVgithub.pdf)
 
 ## Research
 
