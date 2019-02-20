@@ -5,7 +5,7 @@ It also is a so-called consensus model which means that the circular location an
 Interpretation of the parameter estimates from these models however is challenging, so several subprojects focus on the development 
 of interpretation tools.
 
-Sub-projects are:
+For more information and research on circular data in the social sciences the [project website](https://cdm.sites.uu.nl/) of the research group on circular data at Utrecht University.
 
 #### PN regression models
 * Performance of two MCMC algorithms for estimating PN regression models is investigaged. In this project, we have also analysed data from an interpersonal circumplex using the PN regression model. [[link]](https://econtent.hogrefe.com/doi/10.1027/1614-2241/a000147)
@@ -24,7 +24,3 @@ This tutorial introduces the R-package bpnreg for Bayesian PN regression and mix
 
 #### Cylindrical models for circumplex data.
 Four models for cylindrical data are extended and fit to circumplex data. [[link]](https://github.com/joliencremers/CylindricalComparisonCircumplex)
-
-For more information and research on circular data in the social sciences the [project website](https://cdm.sites.uu.nl/) of the research group on circular data at Utrecht University.
-
-
