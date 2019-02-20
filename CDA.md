@@ -12,9 +12,9 @@ Sub-projects are:
 #### PN regression models
 * Performance of two MCMC algorithms for estimating PN regression models is investigaged. In this project, we have also analysed data from an interpersonal circumplex using the 
     PN regression model. [[link]](https://econtent.hogrefe.com/doi/10.1027/1614-2241/a000147)
-* Several measures were developed that make the interpretation of regression effects on the circle easier. [link](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12108)
+* Several measures were developed that make the interpretation of regression effects on the circle easier. [[link]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12108)
 * Several tools that can be used to distinguish between accuracy and location effects in a PN regression model are introduced and compared.
-[link](https://github.com/joliencremers/Data-Archive-Accuracy-Effect-PN-Models)
+[[link]](https://github.com/joliencremers/Data-Archive-Accuracy-Effect-PN-Models)
 
 #### PN mixed-effects models
 A Bayesian PN mixed-effects model is used for longitudinal teacher behavior data from an interpersonal 
@@ -22,13 +22,13 @@ circumplex. The focus lies on how a circular model enriches our understanding of
 the interpretation of effects from a PN mixed-effects model easier. 
 
 #### Wrapped Normal and Cauchy regression
-A Bayesian circular regression model based on the wrapping approach is introduced. [link](https://github.com/joliencremers/regression_wrapping)
+A Bayesian circular regression model based on the wrapping approach is introduced. [[link]](https://github.com/joliencremers/regression_wrapping)
 
 #### A tutorial on circular data in cognitive psychology
-This tutorial introduces the R-package bpnreg for Bayesian PN regression and mixed-effects models. [link](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02040/abstract)
+This tutorial introduces the R-package bpnreg for Bayesian PN regression and mixed-effects models. [[link]](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02040/abstract)
 
 #### Cylindrical models for circumplex data.
-Four models for cylindrical data are extended and fit to circumplex data. [link](https://github.com/joliencremers/CylindricalComparisonCircumplex)
+Four models for cylindrical data are extended and fit to circumplex data. [[link]](https://github.com/joliencremers/CylindricalComparisonCircumplex)
 
 
 
