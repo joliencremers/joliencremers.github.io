@@ -9,7 +9,7 @@ Sub-projects are:
 
 #### PN regression models
 * Performance of two MCMC algorithms for estimating PN regression models is investigaged. In this project, we have also analysed data from an interpersonal circumplex using the PN regression model. [[link]](https://econtent.hogrefe.com/doi/10.1027/1614-2241/a000147)
-* Several measures were developed that make the interpretation of regression effects on the circle easier. [[link] (https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12108)
+* Several measures were developed that make the interpretation of regression effects on the circle easier. [[link]] (https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12108)
 * Several tools that can be used to distinguish between accuracy and location effects in a PN regression model are introduced and compared. [[link]](https://github.com/joliencremers/Data-Archive-Accuracy-Effect-PN-Models)
 
 #### PN mixed-effects models
