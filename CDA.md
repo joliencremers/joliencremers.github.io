@@ -1,8 +1,6 @@
 ## Circular Data in the Social Sciences
 
-During my masters and PhD I focused on developing Bayesian methods for the analysis of circular (longitudinal) data in the social sciences.
-In my reseach I have focused on the embedding approach to circular data, specifically on models employing the projected normal (PN) 
-distribution. The embedding approach is very flexible and within the approach many complex models for circular data exist.
+During my masters and PhD I focused on developing Bayesian methods for the analysis of circular (longitudinal) data in the social sciences. In my reseach I have focused on the embedding approach to circular data, specifically on models employing the projected normal (PN) distribution. The embedding approach is very flexible and within the approach many complex models for circular data exist.
 It also is a so-called consensus model which means that the circular location and spread are modeled simultaneously. 
 Interpretation of the parameter estimates from these models however is challenging, so several subprojects focus on the development 
 of interpretation tools.
@@ -10,16 +8,12 @@ of interpretation tools.
 Sub-projects are:
 
 #### PN regression models
-* Performance of two MCMC algorithms for estimating PN regression models is investigaged. In this project, we have also analysed data from an interpersonal circumplex using the 
-    PN regression model. [[link]](https://econtent.hogrefe.com/doi/10.1027/1614-2241/a000147)
-* Several measures were developed that make the interpretation of regression effects on the circle easier. [[link]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12108)
-* Several tools that can be used to distinguish between accuracy and location effects in a PN regression model are introduced and compared.
-[[link]](https://github.com/joliencremers/Data-Archive-Accuracy-Effect-PN-Models)
+* Performance of two MCMC algorithms for estimating PN regression models is investigaged. In this project, we have also analysed data from an interpersonal circumplex using the PN regression model. [[link]](https://econtent.hogrefe.com/doi/10.1027/1614-2241/a000147)
+* Several measures were developed that make the interpretation of regression effects on the circle easier. [[link] (https://onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.12108)
+* Several tools that can be used to distinguish between accuracy and location effects in a PN regression model are introduced and compared. [[link]](https://github.com/joliencremers/Data-Archive-Accuracy-Effect-PN-Models)
 
 #### PN mixed-effects models
-A Bayesian PN mixed-effects model is used for longitudinal teacher behavior data from an interpersonal 
-circumplex. The focus lies on how a circular model enriches our understanding of this type of data and new tools are introduced to make 
-the interpretation of effects from a PN mixed-effects model easier. 
+A Bayesian PN mixed-effects model is used for longitudinal teacher behavior data from an interpersonal circumplex. The focus lies on how a circular model enriches our understanding of this type of data and new tools are introduced to make the interpretation of effects from a PN mixed-effects model easier. 
 
 #### Wrapped Normal and Cauchy regression
 A Bayesian circular regression model based on the wrapping approach is introduced. [[link]](https://github.com/joliencremers/regression_wrapping)
@@ -30,5 +24,6 @@ This tutorial introduces the R-package bpnreg for Bayesian PN regression and mix
 #### Cylindrical models for circumplex data.
 Four models for cylindrical data are extended and fit to circumplex data. [[link]](https://github.com/joliencremers/CylindricalComparisonCircumplex)
 
+For more information and research on circular data in the social sciences the [project website](https://cdm.sites.uu.nl/) of the research group on circular data at Utrecht University.
 
 
