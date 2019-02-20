@@ -6,7 +6,7 @@ I'm a researcher at the University of Copenhagen and Danmarks Statistik who is i
 Other research interests include: circular data analysis, multi-level/hierarchical modelling, Bayesian data analysis and modelling data from circumplex measurement instruments. 
 
 #### Contact
-[jcre@sund.ku.dk](jcre@sund.ku.dk)
+[jcre@sund.ku.dk](mailto:jcre@sund.ku.dk)
 
 
 [CV](./CV.html)
