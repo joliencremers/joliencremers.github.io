@@ -19,3 +19,14 @@
 - Ketelaar, J., **Cremers, J.**, Mulder, K.T. \& Klugkist, I. (2015). Statistiek op de Cirkel. *STAtOR, 3*, p. 24-27.}
 
 ## Working papers
+
+- **Cremers, J**.  waspr: an R package for computing Wasserstein barycenters of subset posteriors.
+- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (submitted). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean.
+
+- **Cremers, J.**, Mortensen, L.H. & Ekstrøm, C.T. (submitted). A Joint Model for Longitudinal and Time-to-Event Data in Life Course Research: Employment Status and Time to Retirement.
+
+## Unpublished manuscripts
+
+- **Cremers, J.** & Hernandez-Stumpfhauser, D. (unpublished) Indicators for effects on mean and variance in projected normal regression models for a circular outcome. [[GitHub]](https://github.com/joliencremers/Data-Archive-Accuracy-Effect-PN-Models)
+
+- **Cremers, J.**, Jansen, I., &, Klugkist, I. (unpublished) Bayesian Analysis of Circular Data Using the Wrapping Approach. [[GitHub]](https://github.com/joliencremers/regression_wrapping)
