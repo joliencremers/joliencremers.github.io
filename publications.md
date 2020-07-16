@@ -20,7 +20,8 @@
 
 ## Working papers
 
-- **Cremers, J**.  waspr: an R package for computing Wasserstein barycenters of subset posteriors.
+- **Cremers, J**.  waspr: an R package for computing Wasserstein barycenters of subset posteriors. [[Github]](https://github.com/joliencremers/waspr)
+
 - Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (submitted). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean.
 
 - **Cremers, J.**, Mortensen, L.H. & Ekstrøm, C.T. (submitted). A Joint Model for Longitudinal and Time-to-Event Data in Life Course Research: Employment Status and Time to Retirement.

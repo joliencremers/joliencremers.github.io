@@ -3,7 +3,7 @@
 During my masters and PhD I worked on developing Bayesian methods for the
 analysis of circular (longitudinal) data in the social sciences, mostly using
 the embedding approach to circular data, specifically on models employing the
-projected normal (PN) distribution. A copy of the dissertation can be found [[here]]().
+projected normal (PN) distribution. A copy of the dissertation can be found [[here]](https://dspace.library.uu.nl/handle/1874/380364).
 
 The embedding approach models the circular location and spread are modeled
 simultaneously and is very flexible regarding the type of models that can be
