@@ -1,22 +1,11 @@
 
 ## About me
 
-I'm a researcher at the University of Copenhagen and Statistics Denmark who is interested in modeling life trajectories from registry data using both methods from event-history analysis and Bayesian networks.
+I'm a researcher at the University of Copenhagen and Statistics Denmark who is interested in modeling [life trajectories](./LT.html) from registry data using both methods from event-history analysis and Bayesian networks.
 
-Other research interests include: circular data analysis, multi-level/hierarchical modelling, Bayesian data analysis and modelling data from circumplex measurement instruments. 
+Other research interests include: [circular data analysis](./CDA.html), multi-level/hierarchical modelling, Bayesian data analysis and modelling data from [circumplex measurement instruments](./IPC.html). 
 
-#### Contact
-[jcre@sund.ku.dk](mailto:jcre@sund.ku.dk)
-
-
-[CV](CVgithub.pdf)
-
-## Research
-
-* [Circular Data Analysis](./CDA.html)
-* [Interpersonal Circumplex](./IPC.html)
-* [Modelling Life Trajectories](./LT.html)
-
-## Publications
-
-
+### [Publications](./publications.html)
+### [Software](./software.html)
+### [Contact](mailto:jcre@sund.ku.dk)
+### [CV](files/CVgithub.pdf)
