@@ -1,4 +1,4 @@
-## multi-level/hierarchical modelling
+## Multi-level/hierarchical modelling
 
 
 - Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (submitted). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean.

@@ -7,7 +7,7 @@ An R package for combining MCMC results from subset posteriors:
 
 A Bayesian joint model for a longitudinal and time-to-event outcome:
 
-- **Cremers, J.**, Mortensen, L.H. & Ekstrøm, C.T. (submitted). A Joint Model for Longitudinal and Time-to-Event Data in Life Course Research: Employment Status and Time to Retirement.
+- **Cremers, J.**, Mortensen, L.H. & Ekstrom, C.T. (submitted). A Joint Model for Longitudinal and Time-to-Event Data in Life Course Research: Employment Status and Time to Retirement.
 
 
 Bayesian methods for circular data analysis:
