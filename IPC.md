@@ -25,7 +25,7 @@ easier.
 
 - van der Lans, R.M, **Cremers, J.**, Klugkist, I. & Zwart, R. (in press). How you say what you say: Teachers' interpersonal relations and their instructional quality. *Studies in Educational Evaluation*. [[Full-text]](https://doi.org/10.1016/j.stueduc.2020.100902)
 
-Application of a PN mixed-effects model toinvestigate the association between
+Application of a PN mixed-effects model to investigate the association between
 teacher-student interpersonal relations and instructional expertise.
 
 #### Cylindrical models
