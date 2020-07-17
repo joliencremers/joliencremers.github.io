@@ -22,7 +22,7 @@ Bayesian methods for circular data analysis:
 
 - **Cremers, J.** & Klugkist, I. (2018) One direction? A tutorial for circular data with examples in cognitive psychology. *Frontiers in Psychology: Cognitive Science*.[[Full-text]](https://doi.org/10.3389/fpsyg.2018.02040)
 
-- **Cremers, J.**, Mainhard, M.T. \&  Klugkist, I. (2018). Assessing a Bayesian Embedding Approach to Circular Regression Models. *Methodology, 14*, 69-81. [[Full-text]](https://doi.org/10.1027/1614-2241/a000147) 
+- **Cremers, J.**, Mainhard, M.T. &  Klugkist, I. (2018). Assessing a Bayesian Embedding Approach to Circular Regression Models. *Methodology, 14*, 69-81. [[Full-text]](https://doi.org/10.1027/1614-2241/a000147) 
 
  - **Cremers, J.** , Mulder, K.T. & Klugkist, I. (2018). Circular Interpretation of Regression Coefficients. *British Journal of Mathematical and Statistical Psychology, 71*(1), 75-95. [[Full-text]](https://doi.org/10.1111/bmsp.12108)
  
