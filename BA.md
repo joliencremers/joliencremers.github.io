@@ -14,11 +14,11 @@ Bayesian methods for circular data analysis:
 
 - Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (in press). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances* [[Full-text]]()
 
-- van der Lans, R.M, **Cremers, J.**, Klugkist, I. & Zwart, R. (2020) How you say what you say: Teachers' interpersonal relations and their instructional quality. *Studies in Educational Evaluation, 66* [[Full-text]](https://doi.org/10.1016/j.stueduc.2020.100902)
+- **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (in press) Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment*. [[Full-text]](https://doi.org/10.1177/1073191119858407)
 
 - **Cremers, J.**, Pennings, H.J.M & Ley, C. (2020) Regression Models for Cylindrical Data in Psychology. *Multivariate Behavioral Analysis, 55*(6), 910-925. [[Full-text]](https://doi.org/10.1080/00273171.2019.1693332)
 
-- **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (in press) Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment*. [[Full-text]](https://doi.org/10.1177/1073191119858407)
+- van der Lans, R.M, **Cremers, J.**, Klugkist, I. & Zwart, R. (2020) How you say what you say: Teachers' interpersonal relations and their instructional quality. *Studies in Educational Evaluation, 66* [[Full-text]](https://doi.org/10.1016/j.stueduc.2020.100902)
 
 - **Cremers, J.** & Klugkist, I. (2018) One direction? A tutorial for circular data with examples in cognitive psychology. *Frontiers in Psychology: Cognitive Science*.[[Full-text]](https://doi.org/10.3389/fpsyg.2018.02040)
 
