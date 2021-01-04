@@ -14,7 +14,7 @@
 
 - **Cremers, J.** , Mulder, K.T. & Klugkist, I. (2018). Circular Interpretation of Regression Coefficients. *British Journal of Mathematical and Statistical Psychology, 71*(1), 75-95. [[Full-text]](https://doi.org/10.1111/bmsp.12108)
  
-- Klugkist, I., Cremers, J. & Mulder, K.T. (2018). Bayesian analysis of circular data in social and behavioral sciences. In Ley, C & Verdebout, T. *Applied Directional Statistics: Modern Methods and Case Studies* (pp. 156 - 199). Chapman & Hall.
+- Klugkist, I., **Cremers, J.** & Mulder, K.T. (2018). Bayesian analysis of circular data in social and behavioral sciences. In Ley, C & Verdebout, T. *Applied Directional Statistics: Modern Methods and Case Studies* (pp. 156 - 199). Chapman & Hall.
 
 - Marchiori, D.R., Evers, C., Junghans, A.F., **Cremers, J.** & De Ridder, D.T.D. (2018). Citizen approval of nudging interventions promoting healthy eating: The role of intrusiveness and trustworthiness.  *BMC Public Health*, 18:1182. [[Full-text]](https://doi.org/10.1186/s12889-018-6097-y)
 
