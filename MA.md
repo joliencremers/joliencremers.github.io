@@ -16,7 +16,7 @@ datasets from an interpersonal circumplex:
 Application of a Bayesian PN mixed-effects model to investigate the association between
 teacher-student interpersonal relations and instructional expertise:
 
-- van der Lans, R.M, **Cremers, J.**, Klugkist, I. & Zwart, R. (in press). How you say what you say: Teachers' interpersonal relations and their instructional quality. *Studies in Educational Evaluation*. [[Full-text]](https://doi.org/10.1016/j.stueduc.2020.100902)
+- van der Lans, R.M, **Cremers, J.**, Klugkist, I. & Zwart, R. (2020) How you say what you say: Teachers' interpersonal relations and their instructional quality. *Studies in Educational Evaluation, 66* [[Full-text]](https://doi.org/10.1016/j.stueduc.2020.100902)
 
 Application of a linear mixed-effects model to analyse approval of nudging interventions from several actors:
 

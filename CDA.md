@@ -39,7 +39,7 @@ model enriches our understanding of this type of data and new tools are
 introduced to make the interpretation of effects from a PN mixed-effects model
 easier.
 
-- **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (in press). Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment*. [[Full-text]](https://doi.org/10.1080/00273171.2019.1693332)
+- **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (in press) Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment*. [[Full-text]](https://doi.org/10.1177/1073191119858407)
 
 
 #### Wrapped Normal and Cauchy regression

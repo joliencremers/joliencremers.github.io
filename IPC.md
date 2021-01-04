@@ -23,12 +23,12 @@ model enriches our understanding of this type of data and new tools are
 introduced to make the interpretation of effects from a PN mixed-effects model
 easier.
 
-- **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (in press). Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment*. [[Full-text]](https://doi.org/10.1080/00273171.2019.1693332)
+- **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (in press) Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment*. [[Full-text]](https://doi.org/10.1177/1073191119858407)
 
 Application of a PN mixed-effects model to investigate the association between
 teacher-student interpersonal relations and instructional expertise:
 
-- van der Lans, R.M, **Cremers, J.**, Klugkist, I. & Zwart, R. (in press). How you say what you say: Teachers' interpersonal relations and their instructional quality. *Studies in Educational Evaluation*. [[Full-text]](https://doi.org/10.1016/j.stueduc.2020.100902)
+- van der Lans, R.M, **Cremers, J.**, Klugkist, I. & Zwart, R. (2020) How you say what you say: Teachers' interpersonal relations and their instructional quality. *Studies in Educational Evaluation, 66* [[Full-text]](https://doi.org/10.1016/j.stueduc.2020.100902)
 
 
 #### Cylindrical models
