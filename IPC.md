@@ -36,7 +36,7 @@ teacher-student interpersonal relations and instructional expertise:
 Regression extension of four models for cylindrical data that are subsequently
 fit to circumplex data:
 
-- **Cremers, J.**, Pennings, H.J.M & Ley, C. (in press). Regression Models for Cylindrical Data in Psychology. *Multivariate Behavioral Analysis*. [[Full-text]](https://doi.org/10.1080/00273171.2019.1693332)
+- **Cremers, J.**, Pennings, H.J.M & Ley, C. (2020) Regression Models for Cylindrical Data in Psychology. *Multivariate Behavioral Analysis, 55*(6), 910-925. [[Full-text]](https://doi.org/10.1080/00273171.2019.1693332)
 
 
 

@@ -7,16 +7,16 @@ An R package for combining MCMC results from subset posteriors:
 
 A Bayesian joint model for a longitudinal and time-to-event outcome:
 
-- **Cremers, J.**, Mortensen, L.H. & Ekstrøm, C.T. (submitted). A Joint Model for Longitudinal and Time-to-Event Data in Life Course Research: Employment Status and Time to Retirement.
+- **Cremers, J.**, Mortensen, L.H. & Ekstrøm, C.T. (submitted). A Joint Model for Longitudinal and Time-to-Event Data in Social and Life Course Research: Employment Status and Time to Retirement.
 
 
 Bayesian methods for circular data analysis:
 
-- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (submitted). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean.
+- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (in press). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances* [[Full-text]]()
 
 - van der Lans, R.M, **Cremers, J.**, Klugkist, I. & Zwart, R. (in press) How you say what you say: Teachers' interpersonal relations and their instructional quality. *Studies in Educational Evaluation* [[Full-text]](https://doi.org/10.1016/j.stueduc.2020.100902)
 
-- **Cremers, J.**, Pennings, H.J.M & Ley, C. (in press) Regression Models for Cylindrical Data in Psychology. *Multivariate Behavioral Analysis*. [[Full-text]](https://doi.org/10.1080/00273171.2019.1693332)
+- **Cremers, J.**, Pennings, H.J.M & Ley, C. (2020) Regression Models for Cylindrical Data in Psychology. *Multivariate Behavioral Analysis, 55*(6), 910-925. [[Full-text]](https://doi.org/10.1080/00273171.2019.1693332)
 
 - **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (in press) Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment*. [[Full-text]](https://doi.org/10.1080/00273171.2019.1693332)
 
