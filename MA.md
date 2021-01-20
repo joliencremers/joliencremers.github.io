@@ -6,7 +6,7 @@ A Bayesian joint model for a longitudinal and time-to-event outcome:
 
 Application of a Bayesian PN mixed-effects model to drift timing of elephant seals:
 
-<!---- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (in press). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances* [[Full-text]]() -->
+- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (in press). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances* [[Full-text]]()
 
 Application of a Bayesian PN mixed-effects model to several repeated measures
 datasets from an interpersonal circumplex:

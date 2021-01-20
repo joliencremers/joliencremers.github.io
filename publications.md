@@ -1,6 +1,6 @@
 ## Peer reviewed
 
-<!---- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (in press). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances* [[Full-text]]() -->
+- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (in press). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances* [[Full-text]]()
 
 - **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (in press) Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment*. [[Full-text]](https://doi.org/10.1177/1073191119858407)
 

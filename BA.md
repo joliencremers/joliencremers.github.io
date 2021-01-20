@@ -11,7 +11,8 @@ A Bayesian joint model for a longitudinal and time-to-event outcome:
 
 
 Bayesian methods for circular data analysis:
-<!---- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (in press). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances* [[Full-text]]() -->
+
+- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (in press). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances* [[Full-text]]()
 
 - **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (in press) Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment*. [[Full-text]](https://doi.org/10.1177/1073191119858407)
 
@@ -25,7 +26,7 @@ Bayesian methods for circular data analysis:
 
  - **Cremers, J.** , Mulder, K.T. & Klugkist, I. (2018). Circular Interpretation of Regression Coefficients. *British Journal of Mathematical and Statistical Psychology, 71*(1), 75-95. [[Full-text]](https://doi.org/10.1111/bmsp.12108)
  
-- Klugkist, I., Cremers, J. & Mulder, K.T. (2018). Bayesian analysis of circular data in social and behavioral sciences. In Ley, C & Verdebout, T. *Applied Directional Statistics: Modern Methods and Case Studies* (pp. 156 - 199). Chapman & Hall.
+- Klugkist, I., **Cremers, J.** & Mulder, K.T. (2018). Bayesian analysis of circular data in social and behavioral sciences. In Ley, C & Verdebout, T. *Applied Directional Statistics: Modern Methods and Case Studies* (pp. 156 - 199). Chapman & Hall.
 
 
 
