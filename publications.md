@@ -1,8 +1,8 @@
 ## Peer reviewed
 
-- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (in press). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances* [[Full-text]]()
+- Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (2021). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances, 7*(12) [[Full-text]](https://doi.org/10.1126/sciadv.abd9818)
 
-- **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (in press) Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment*. [[Full-text]](https://doi.org/10.1177/1073191119858407)
+- **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (2021) Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment, 28*(2), 585-600. [[Full-text]](https://doi.org/10.1177/1073191119858407)
 
 - **Cremers, J.**, Pennings, H.J.M & Ley, C. (2020) Regression Models for Cylindrical Data in Psychology. *Multivariate Behavioral Analysis, 55*(6), 910-925. [[Full-text]](https://doi.org/10.1080/00273171.2019.1693332)
 
@@ -22,13 +22,13 @@
 
 ## Working papers
 
-- **Cremers, J**.  waspr: an R package for computing Wasserstein barycenters of subset posteriors. [[Github]](https://github.com/joliencremers/waspr)
-
 - **Cremers, J.**, Mortensen, L.H. & Ekstrøm, C.T. (submitted). A Joint Model for Longitudinal and Time-to-Event Data in Social and Life Course Research: Employment Status and Time to Retirement.
 
-- **Cremers, J.**, Nielsen, T.H. & Ekstrøm, C.T. Retiring today keeps the doctor away? The causal effect of early retirement on medication use in different occupational subgroups.
+- **Cremers, J.**, Nielsen, T.H. & Ekstrøm, C.T. (submitted). The causal effect of early retirement on medication use across sex and occupation: Evidence from Danish administrative data.
 
 ## Unpublished manuscripts
+
+- **Cremers, J**.  waspr: an R package for computing Wasserstein barycenters of subset posteriors. [[Github]](https://github.com/joliencremers/waspr)
 
 - **Cremers, J.** & Hernandez-Stumpfhauser, D. (unpublished) Indicators for effects on mean and variance in projected normal regression models for a circular outcome. [[GitHub]](https://github.com/joliencremers/Data-Archive-Accuracy-Effect-PN-Models)
 
