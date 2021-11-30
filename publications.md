@@ -1,5 +1,7 @@
 ## Peer reviewed
 
+- **Cremers, J.**, Mortensen, L.H. & Ekstrøm, C.T. (in press). A Joint Model for Longitudinal and Time-to-Event Data in Social and Life Course Research: Employment Status and Time to Retirement. *Sociological Methods and Research*
+
 - Beltran, R.S., Kendall-Bar, J.M., Pirotta, E. Adachi, T., Naito, Y., Takahashi, A., **Cremers, J.**, Robinson, P.W., Crocker, D.E. & Costa, D.P. (2021). Lightscapes of fear: how mesopredators balance starvation and predation in the open ocean. *Science Advances, 7*(12) [[Full-text]](https://doi.org/10.1126/sciadv.abd9818)
 
 - **Cremers, J.**, Pennings, H.J.M., Mainhard, M.T. & Klugkist, I. (2021) Circular Modelling of Circumplex Measurements for Interpersonal Behavior. *Assessment, 28*(2), 585-600. [[Full-text]](https://doi.org/10.1177/1073191119858407)
@@ -21,8 +23,6 @@
 - Ketelaar, J., **Cremers, J.**, Mulder, K.T. & Klugkist, I. (2015). Statistiek op de Cirkel. *STAtOR, 3*, p. 24-27.}
 
 ## Working papers
-
-- **Cremers, J.**, Mortensen, L.H. & Ekstrøm, C.T. (submitted). A Joint Model for Longitudinal and Time-to-Event Data in Social and Life Course Research: Employment Status and Time to Retirement.
 
 - **Cremers, J.**, Nielsen, T.H. & Ekstrøm, C.T. (submitted). The causal effect of early retirement on medication use across sex and occupation: Evidence from Danish administrative data.
 
