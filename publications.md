@@ -24,7 +24,12 @@
 
 ## Working papers
 
-- **Cremers, J.**, Nielsen, T.H. & Ekstrøm, C.T. (submitted). The causal effect of early retirement on medication use across sex and occupation: Evidence from Danish administrative data.
+- **Cremers, J.**, Nielsen, T.H. & Ekstrøm, C.T. (working paper). The causal effect of early retirement on medication use across sex and occupation: Evidence from Danish administrative data.
+
+- Roe, L. **Cremers, J.**, May, P., Vrangbæk, K., O'Halloran, A.M., Westendorp, R.G.J., Kenny, R.A. (working paper). Changes in healthcare spending after a fall among older adults in Denmark: A Difference-in-Differences analysis using Danish national registry data.
+
+- O'Halloran, A.M., **Cremers, J.**, Vrangbæk, K., Roe, L., Bourke, R., Mortensen, L., Westendorp, R.G.J., Kenny, R.A. (working paper). Predicting the risk of incident falls among adults aged \geq 65 years presenting at the Emergenct Department: A cohort study from national registry data in Denmark.
+
 
 ## Unpublished manuscripts
 
